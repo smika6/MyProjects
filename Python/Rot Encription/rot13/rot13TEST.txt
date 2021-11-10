@@ -1,0 +1,38 @@
+Python 2.7.6 (default, Nov 10 2013, 19:24:18) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+>>> secret = "i love you"
+>>> secret_encrypted = rot13(secret)
+>>> secret_revealed = rot13(secret_encrypted)
+>>> secret_encrypted
+'v ybir lbh'
+>>> secret_revealed
+'i love you'
+>>> rot13(rot13("jump away"))
+'jump away'
+>>> rot13(rot13("jump away!!!^"))
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+'jump away!!!^'
+>>> rot13("jump away!!!^")
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+'whzc njnl!!!^'
+>>> rot13(whzc njnl!!!^)
+SyntaxError: invalid syntax
+>>> rot13("whzc njnl!!!^")
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+'jump away!!!^'
+>>> 

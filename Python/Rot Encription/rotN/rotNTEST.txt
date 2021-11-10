@@ -1,0 +1,23 @@
+Python 2.7.6 (default, Nov 10 2013, 19:24:18) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+>>> rotNEncrypt("abcdefg", 7)
+'hijklmn'
+>>> rotNDecrypt('hijklmn', 7)
+'abcdefg'
+>>> rotNEncrypt("a b c d efg", 7)
+'h i j k lmn'
+>>> rotNDecrypt('h i j k lmn', 7)
+'a b c d efg'
+>>> rotNEncrypt("a b c d efg!!!", 7)
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+'h i j k lmn!!!'
+>>> rotNDecrypt('h i j k lmn!!!', 7)
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+rot13 tried to implement a character not registered
+'a b c d efg!!!'
+>>> 

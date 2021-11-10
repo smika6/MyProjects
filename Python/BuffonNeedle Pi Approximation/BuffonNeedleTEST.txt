@@ -1,0 +1,13 @@
+Python 2.7.6 (default, Nov 10 2013, 19:24:18) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+>>> BuffonNeedle(1)
+1.68
+>>> BuffonNeedle(1)
+divide by 0 error
+(0, 1)
+'error'
+>>> BuffonNeedle(25)
+3.230769230769231
+>>> 

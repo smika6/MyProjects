@@ -1,0 +1,96 @@
+Python 2.7.6 (default, Nov 10 2013, 19:24:18) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+('****PASS', 0, '****')
+CLUSTER
+([56], False)
+([44], False)
+([45], False)
+([45], False)
+()
+CLUSTER
+([76], False)
+([76], False)
+([78], False)
+([78], False)
+([77], False)
+()
+CLUSTER
+([87], False)
+([98], False)
+([98], False)
+([90], False)
+([89], False)
+()
+CLUSTER
+([34], False)
+([12], False)
+([25], False)
+([34], False)
+([12], False)
+([22], False)
+([11], False)
+()
+('****PASS', 1, '****')
+CLUSTER
+([34], False)
+([56], False)
+([44], False)
+([45], False)
+([34], False)
+([45], False)
+()
+CLUSTER
+([76], False)
+([76], False)
+([78], False)
+([78], False)
+([77], False)
+()
+CLUSTER
+([87], False)
+([98], False)
+([98], False)
+([90], False)
+([89], False)
+()
+CLUSTER
+([12], False)
+([25], False)
+([12], False)
+([22], False)
+([11], False)
+()
+('****PASS', 2, '****')
+CLUSTER
+([34], False)
+([56], False)
+([44], False)
+([45], False)
+([34], False)
+([45], False)
+()
+CLUSTER
+([76], False)
+([76], False)
+([78], False)
+([78], False)
+([77], False)
+()
+CLUSTER
+([87], False)
+([98], False)
+([98], False)
+([90], False)
+([89], False)
+()
+CLUSTER
+([12], False)
+([25], False)
+([12], False)
+([22], False)
+([11], False)
+()
+[[1, 2, 4, 6, 10, 18], [7, 11, 13, 15, 19], [5, 8, 14, 16, 17], [3, 9, 12, 20, 21]]
+>>> 

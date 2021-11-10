@@ -1,0 +1,18 @@
+2020-07-15 20:00:08,070:DEBUG:discord.client: on_ready has successfully been registered as an event
+2020-07-15 20:00:08,070:DEBUG:discord.client: on_member_join has successfully been registered as an event
+2020-07-15 20:00:08,070:DEBUG:discord.client: on_message has successfully been registered as an event
+2020-07-15 20:00:08,070:INFO:discord.client: Cleaning up tasks.
+2020-07-15 20:00:08,071:INFO:discord.client: Cleaning up after 1 tasks.
+2020-07-15 20:00:08,071:INFO:discord.client: Closing the event loop.
+2020-07-15 20:00:37,765:DEBUG:discord.client: on_ready has successfully been registered as an event
+2020-07-15 20:00:37,766:DEBUG:discord.client: on_member_join has successfully been registered as an event
+2020-07-15 20:00:37,766:DEBUG:discord.client: on_message has successfully been registered as an event
+2020-07-15 20:00:37,766:INFO:discord.client: Cleaning up tasks.
+2020-07-15 20:00:37,766:INFO:discord.client: Cleaning up after 1 tasks.
+2020-07-15 20:00:37,766:INFO:discord.client: Closing the event loop.
+2020-07-15 20:00:38,653:DEBUG:discord.client: on_ready has successfully been registered as an event
+2020-07-15 20:00:38,654:DEBUG:discord.client: on_member_join has successfully been registered as an event
+2020-07-15 20:00:38,654:DEBUG:discord.client: on_message has successfully been registered as an event
+2020-07-15 20:00:38,654:INFO:discord.client: Cleaning up tasks.
+2020-07-15 20:00:38,654:INFO:discord.client: Cleaning up after 1 tasks.
+2020-07-15 20:00:38,654:INFO:discord.client: Closing the event loop.
