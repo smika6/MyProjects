@@ -56,12 +56,12 @@ logger.addHandler(handler)
 token='NzE0OTI3NTAxOTk4MjkzMDcz.Xs2vYQ.ejQ-dnPTdEeB-xVxMygKlvUy-RM'
 
 #guild_id id
-guild_id = 289587222011707412
+guild_id = 
 
 #my/creator identification
-my_id = "289311066134020098"
-my_name = "Smika"
-my_discriminator = "2013"
+my_id = ""
+my_name = ""
+my_discriminator = ""
 
 #create the client for the bot
 client = discord.Client()
