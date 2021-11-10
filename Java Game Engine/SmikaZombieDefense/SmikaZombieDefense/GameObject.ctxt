@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=GameObject
+comment0.text=\r\n\ an\ generic\ abstract\ object\ parent\ object\ for\ game\ elements\r\n\r\n\ @author\ Jacob\ Hopkins\r\n\ @version\ v1.0\r\n
+comment1.params=
+comment1.target=void\ tick()
+comment10.params=
+comment10.target=float\ getVelX()
+comment11.params=
+comment11.target=float\ getVelY()
+comment2.params=g
+comment2.target=void\ render(java.awt.Graphics)
+comment3.params=
+comment3.target=java.awt.Rectangle\ getBounds()
+comment4.params=x
+comment4.target=void\ setX(float)
+comment5.params=y
+comment5.target=void\ setY(float)
+comment6.params=
+comment6.target=float\ getX()
+comment7.params=
+comment7.target=float\ getY()
+comment8.params=vX
+comment8.target=void\ setVelX(float)
+comment9.params=vY
+comment9.target=void\ setVelY(float)
+numComments=12

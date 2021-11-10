@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WallBouncingEnemy
+comment0.text=\r\n\r\n\ @author\ Jacob\ Hopkins\r\n\ @version\ v1.0\r\n
+comment1.params=x\ y\ id\ handler
+comment1.target=WallBouncingEnemy(float,\ float,\ ID,\ Handler)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=
+comment3.target=java.awt.Rectangle\ getBounds()
+comment4.params=g
+comment4.target=void\ render(java.awt.Graphics)
+numComments=5

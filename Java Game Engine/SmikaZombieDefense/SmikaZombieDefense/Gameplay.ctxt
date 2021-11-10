@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Gameplay
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Spawn\ here.\r\n\r\n\ @author\ Jacob\ Hopkins\r\n\ @version\ v1.0\r\n
+comment1.params=
+comment1.target=void\ tick()
+comment2.params=x
+comment2.target=void\ spawnZombie(int)
+numComments=3

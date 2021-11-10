@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AuxFunctions
+comment1.params=var\ min\ max
+comment1.target=float\ clamp(float,\ float,\ float)
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=float\ distance(float,\ float,\ float,\ float)
+numComments=3

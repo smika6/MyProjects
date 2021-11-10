@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Game\ here.\r\n\r\n\ @author\ Jacob\ Hopkins\r\n\ @version\ v1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ stop()
+comment2.params=
+comment2.target=Game()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ tick()
+comment5.params=
+comment5.target=void\ render()
+comment6.params=
+comment6.target=STATE\ getState()
+comment7.params=state
+comment7.target=void\ setState(STATE)
+comment8.params=
+comment8.target=void\ close()
+comment9.params=
+comment9.target=void\ start()
+numComments=11

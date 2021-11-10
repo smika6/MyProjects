@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Handler
+comment0.text=\r\n\ maintain/update&render\ objects\r\n\r\n\ @author\ Jacob\ Hopkins\r\n\ @version\ v1.0\r\n
+comment1.params=
+comment1.target=void\ tick()
+comment10.params=
+comment10.target=GameObject\ removeLast()
+comment2.params=g
+comment2.target=void\ render(java.awt.Graphics)
+comment3.params=object
+comment3.target=void\ addObject(GameObject)
+comment4.params=object
+comment4.target=void\ addFirst(GameObject)
+comment5.params=object
+comment5.target=void\ removeObject(GameObject)
+comment6.params=index
+comment6.target=void\ removeObject(int)
+comment7.params=
+comment7.target=void\ clearObjects()
+comment8.params=object
+comment8.target=int\ lastIndexOf(GameObject)
+comment9.params=index
+comment9.target=GameObject\ getObject(int)
+numComments=11

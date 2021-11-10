@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Trail
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Trail\ here.\r\n\r\n\ @author\ Jacob\ Hopkins\r\n\ @version\ v1.0\r\n
+comment1.params=x\ y\ id\ width\ height\ color\ life\ handler
+comment1.target=Trail(float,\ float,\ ID,\ float,\ float,\ java.awt.Color,\ float,\ Handler)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=g
+comment3.target=void\ render(java.awt.Graphics)
+comment4.params=alpha
+comment4.target=java.awt.AlphaComposite\ makeTransparent(float)
+comment5.params=
+comment5.target=java.awt.Rectangle\ getBounds()
+numComments=6
