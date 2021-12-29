@@ -1,11 +1,12 @@
 This contains all of the files from my senior project.
-including the work of my teamates
+Including the work of my teamates.
 
-Inside the folder remote contains the files I had a hand in directly.
+Inside the folder 'remote' contains the files I had a hand in directly.
+I had assumed the Tensorflow ANN requirement/role near the end of the project when my team member had personal matters come up.
 
 My specific/personal roles in the group:
   providing/maintaining remote machine/enviroment for high performant computing
-  research and evaluation of performance metrics among classifiers, to influence metric performance script
+  research and evaluation of performance metrics among classifiers
   building tensorflow dataset locally from chunked csv's
   experimenting with google hub layers for model input layer
   training and testing the tensorflow ANN model
